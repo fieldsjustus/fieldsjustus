@@ -7,9 +7,9 @@
 - <b>Endpint Detection & Response </b>
   - [Install Wazuh agent & simulate attack on Windows endpoint](https://github.com/fieldsjustus/EDR/tree/main)
 - <b> Configure & Deploy Firewall <b>
-  - .[Install pfSense firewall from installation media](https://github.com/fieldsjustus/FirewallConfiguration/tree/main)
+  - [Install pfSense firewall from installation media](https://github.com/fieldsjustus/FirewallConfiguration/tree/main)
 - <b>TCPDUMP & Wireshark <b>
-  - .[Monitor & Analyze Network Traffic via Wireshark]
+  - [Monitor & Analyze Network Traffic via Wireshark]
 - <b>Malware Analysis <b>
   - .[Perform Static & Dynamic Analysis on Malware Sample]
 - <b>Burpsuite <b>
