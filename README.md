@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory </b>
-  - [Configure Domain Controller and Manage Users & Groups in Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Configure Domain Controller and Manage Users & Groups in Active Directory](https://github.com/fieldsjustus/ActiveDiretoryLab/tree/main)
 - <b>Endpint Detection & Response </b>
   - [Install Wazuh agent & simulate attack on Windows endpoint]
 - <b> Configure & Deploy Firewall <b>
