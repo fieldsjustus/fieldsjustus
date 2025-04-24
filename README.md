@@ -5,7 +5,7 @@
 - <b>Active Directory </b>
   - [Configure Domain Controller and Manage Users & Groups in Active Directory](https://github.com/fieldsjustus/ActiveDiretoryLab/tree/main)
 - <b>Endpint Detection & Response </b>
-  - [Install Wazuh agent & simulate attack on Windows endpoint]
+  - [Install Wazuh agent & simulate attack on Windows endpoint](https://github.com/fieldsjustus/EDR/tree/main)
 - <b> Configure & Deploy Firewall <b>
   - .[Install pfSense firewall from installation media]
 - <b>TCPDUMP & Wireshark <b>
