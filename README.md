@@ -11,7 +11,7 @@
 - <b>TCPDUMP & Wireshark <b>
   - [Monitor & Analyze Network Traffic via Wireshark](https://github.com/fieldsjustus/TCP/tree/main)
 - <b>Malware Analysis <b>
-  - .[Perform Static & Dynamic Analysis on Malware Sample]
+  - .[Perform Static & Dynamic Analysis on Malware Sample](https://github.com/fieldsjustus/Malware-Analysis/blob/main/README.md)
 - <b>Burpsuite <b>
   
 <h2> Certifications</h2>
