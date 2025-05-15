@@ -13,8 +13,13 @@
 - <b>Malware Analysis <b>
   - [Perform Static & Dynamic Analysis on Malware Sample](https://github.com/fieldsjustus/Malware-Analysis/blob/main/README.md)
 - <b>Burpsuite <b>
+  - [Exploit vulnerabilities in web application](https://github.com/fieldsjustus/BurpSuite/blob/main/README.md)
   
 <h2> Certifications</h2>
+
+- <b>Google IT SUpport Professional </b>
+- <b>Google Cybersecuirty Professional </b>
+- <b>CompTIA Secuirty+ SY0-701 </b>
 
 
 
