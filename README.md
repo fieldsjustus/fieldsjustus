@@ -17,7 +17,7 @@
   
 <h2> Certifications</h2>
 
-- <b>Google IT SUpport Professional </b>
+- <b>Microsoft PL-300 </b>
 
 
 
