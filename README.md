@@ -1,6 +1,6 @@
 <h1>Hi, I'm Justus! </h1>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Active Directory </b>
   - [Configure Domain Controller and Manage Users & Groups in Active Directory](https://github.com/fieldsjustus/ActiveDiretoryLab/tree/main)
