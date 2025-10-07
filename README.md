@@ -18,8 +18,7 @@
 <h2> Certifications</h2>
 
 - <b>Google IT SUpport Professional </b>
-- <b>Google Cybersecuirty Professional </b>
-- <b>CompTIA Secuirty+ SY0-701 </b>
+
 
 
 
