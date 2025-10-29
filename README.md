@@ -2,18 +2,17 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Active Directory </b>
+- <b>Excel </b>
   - [Configure Domain Controller and Manage Users & Groups in Active Directory](https://github.com/fieldsjustus/ActiveDiretoryLab/tree/main)
-- <b>Endpint Detection & Response </b>
+- <b>SQL </b>
   - [Install Wazuh agent & simulate attack on Windows endpoint](https://github.com/fieldsjustus/EDR/tree/main)
-- <b> Configure & Deploy Firewall <b>
+- <b> Python <b>
   - [Install pfSense firewall from installation media](https://github.com/fieldsjustus/FirewallConfiguration/tree/main)
-- <b>TCPDUMP & Wireshark <b>
+- <b>Tableau <b>
   - [Monitor & Analyze Network Traffic via Wireshark](https://github.com/fieldsjustus/TCP/tree/main)
-- <b>Malware Analysis <b>
+- <b>Power BI <b>
   - [Perform Static & Dynamic Analysis on Malware Sample](https://github.com/fieldsjustus/Malware-Analysis/blob/main/README.md)
-- <b>Burpsuite <b>
-  - [Exploit vulnerabilities in web application](https://github.com/fieldsjustus/BurpSuite/blob/main/README.md)
+
   
 <h2> Certifications</h2>
 
